@@ -21,8 +21,8 @@
 ```
 
 <div>
-    * SQL(Structured Query Language) é uma linguagem de programação.
-    * mySQL é um dos muitos tipos de "SGBD" ou conhecidos popularmente como "banco de dados".
-    * SGBD é uma sigla para Sistema de Gerenciamento de Banco de Dados.
+    * SQL(Structured Query Language) é uma linguagem de programação. </br>
+    * mySQL é um dos muitos tipos de "SGBD" ou conhecidos popularmente como "banco de dados". </br>
+    * SGBD é uma sigla para Sistema de Gerenciamento de Banco de Dados. </br>
 </div>
 

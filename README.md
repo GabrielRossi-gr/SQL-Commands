@@ -5,7 +5,6 @@
 </div>
 
 
-
 # Iniciar Versionamento
 ```
     echo "# NOME_DO_REPOSITORIO" >> README.md
@@ -21,5 +20,9 @@
     git push -u origin main
 ```
 
-
+<div>
+    * SQL(Structured Query Language) é uma linguagem de programação.
+    * mySQL é um dos muitos tipos de "SGBD" ou conhecidos popularmente como "banco de dados".
+    * SGBD é uma sigla para Sistema de Gerenciamento de Banco de Dados.
+</div>
 
